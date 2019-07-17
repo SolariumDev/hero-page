@@ -3,6 +3,7 @@ html, body{
 	margin: 0;
 }
 header{
+	max-width: 100%;
 	background-color:#56a4e3;
 	padding: 40px;
 	text-align: center;
