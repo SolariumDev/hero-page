@@ -1,0 +1,69 @@
+#navy{
+	background-color: #000080;
+}
+#baby{
+	background-color: #89cff0;
+}
+#ocean{
+	background-color: #006994;
+}
+#cherry{
+	background-color: #790604;
+}
+#wine{
+	background-color: #722f37;
+}
+#candy{
+	background-color: #ff0800;
+}
+#mint{
+	background-color: #98ff98;
+}
+#parakeet{
+	background-color: #b6d72c;
+}
+#emerald{
+	background-color: #50c878;
+}
+th, td{
+	padding: 10px;
+}
+td{
+	text-align: center;
+}
+table, tr, th, td{
+	border: 2px solid #4f6457;
+}
+table{
+	width: 100%;
+}
+th{
+	height: 50px;
+}
+td, th, tr{
+	font-family: 'Roboto', sans-serif;
+	color: #fff;
+	text-shadow: 1px 1px #000;
+}
+#yellow{
+	background-color: yellow;
+}
+#corn{
+	background-color: #fbec5d;
+}
+#bumblebee{
+	background-color: #ffb101;
+}
+#honey{
+	background-color: #a98307;
+}
+thead{
+	background-color: #000;
+	color: #fff;
+}
+#blue{
+	background-color: #0000cc;
+}
+#red{
+	background-color: #ff0000;
+}
